@@ -114,9 +114,7 @@ Based on the findings, Bright TV can:
 The project also includes an interactive dashboard developed using **Lovable**.
 
 🔗 **Lovable Dashboard:**
-**[PASTE YOUR LOVABLE LINK HERE]**
-
-> Replace the placeholder above with your published Lovable dashboard link.
+(https://watch-wise-scope.lovable.app/)
 
 ---
 
